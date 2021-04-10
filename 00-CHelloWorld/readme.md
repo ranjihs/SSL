@@ -2,5 +2,8 @@
 
 - Versión de compilador usado C18
 
-- Compilar el archivo hello.c
-- Ejecutar archivo hello.exe
+### Pasos ejecutados para la resolución
+
+- Codificación de archivo hello.c
+- Compilación archivo hello.c con extensión de visual studio code "C/C++" previamente instalado compilador MinGW
+- Ejecución por linea de comando "hello.exe > output.txt" 
